@@ -1,0 +1,901 @@
+Date,Shift,Type of Injury,Incident Type,Department,Body Part
+2024-07-13,Morning,Minor,Struck by Object,Quality Control,Hand
+2022-04-05,Night,Moderate,Struck by Object,Production,Foot
+2023-10-18,Evening,Minor,Machinery,Quality Control,Head
+2024-08-10,Night,Minor,Struck by Object,Quality Control,Hand
+2024-09-17,Night,Severe,Cut/Laceration,Maintenance,Foot
+2023-05-03,Morning,Minor,Slip/Fall,Quality Control,Back
+2024-06-17,Night,Severe,Struck by Object,Logistics,Hand
+2023-12-26,Evening,Minor,Burn,Maintenance,Hand
+2024-10-23,Evening,Moderate,Burn,Production,Foot
+2023-09-22,Morning,Severe,Struck by Object,Quality Control,Eye
+2022-12-25,Evening,Minor,Cut/Laceration,Packaging,Head
+2023-07-22,Night,Minor,Burn,Maintenance,Hand
+2024-03-04,Morning,Severe,Slip/Fall,Maintenance,Leg
+2022-08-19,Evening,Severe,Cut/Laceration,Maintenance,Hand
+2022-10-31,Night,Minor,Slip/Fall,Production,Eye
+2023-01-01,Night,Minor,Machinery,Maintenance,Arm
+2023-09-08,Evening,Minor,Burn,Maintenance,Head
+2023-09-10,Night,Moderate,Slip/Fall,Production,Leg
+2024-03-03,Morning,Minor,Slip/Fall,Maintenance,Eye
+2022-01-14,Evening,Minor,Cut/Laceration,Packaging,Head
+2024-04-19,Morning,Minor,Slip/Fall,Maintenance,Head
+2022-06-07,Evening,Moderate,Machinery,Quality Control,Head
+2024-03-21,Morning,Severe,Cut/Laceration,Production,Head
+2024-04-26,Night,Minor,Struck by Object,Quality Control,Back
+2024-11-21,Evening,Minor,Burn,Maintenance,Head
+2023-04-07,Evening,Moderate,Struck by Object,Production,Eye
+2022-12-06,Evening,Minor,Slip/Fall,Quality Control,Arm
+2024-04-21,Evening,Minor,Machinery,Production,Eye
+2022-12-03,Night,Moderate,Machinery,Quality Control,Eye
+2024-03-15,Evening,Minor,Cut/Laceration,Packaging,Hand
+2024-09-27,Evening,Moderate,Slip/Fall,Maintenance,Arm
+2024-12-26,Evening,Moderate,Burn,Logistics,Back
+2024-09-13,Morning,Minor,Machinery,Production,Back
+2024-09-09,Evening,Severe,Cut/Laceration,Production,Foot
+2024-08-27,Morning,Severe,Cut/Laceration,Packaging,Arm
+2024-07-09,Night,Minor,Burn,Logistics,Leg
+2022-07-30,Evening,Severe,Cut/Laceration,Logistics,Leg
+2023-08-05,Morning,Minor,Cut/Laceration,Maintenance,Hand
+2023-10-19,Morning,Moderate,Machinery,Quality Control,Eye
+2023-04-07,Night,Minor,Machinery,Packaging,Eye
+2022-03-07,Night,Minor,Cut/Laceration,Maintenance,Foot
+2023-08-10,Night,Minor,Machinery,Packaging,Foot
+2023-02-20,Morning,Minor,Burn,Logistics,Hand
+2024-11-13,Morning,Minor,Slip/Fall,Production,Arm
+2024-04-02,Morning,Minor,Machinery,Maintenance,Eye
+2023-01-30,Morning,Minor,Struck by Object,Logistics,Eye
+2024-08-27,Evening,Minor,Burn,Quality Control,Foot
+2024-08-24,Evening,Minor,Struck by Object,Packaging,Back
+2022-07-17,Evening,Minor,Struck by Object,Production,Head
+2023-06-23,Morning,Moderate,Struck by Object,Production,Hand
+2022-04-10,Night,Moderate,Struck by Object,Production,Leg
+2023-02-25,Night,Minor,Slip/Fall,Quality Control,Eye
+2022-04-12,Evening,Moderate,Slip/Fall,Production,Eye
+2024-08-04,Night,Severe,Cut/Laceration,Production,Head
+2022-08-23,Night,Minor,Machinery,Production,Arm
+2023-02-11,Evening,Moderate,Burn,Maintenance,Head
+2023-01-04,Night,Moderate,Slip/Fall,Maintenance,Eye
+2024-03-24,Night,Minor,Burn,Quality Control,Leg
+2022-02-22,Morning,Minor,Struck by Object,Packaging,Eye
+2024-01-30,Evening,Minor,Cut/Laceration,Logistics,Arm
+2024-02-01,Night,Severe,Struck by Object,Quality Control,Hand
+2023-01-04,Evening,Minor,Burn,Quality Control,Hand
+2024-10-26,Morning,Minor,Machinery,Packaging,Head
+2024-09-03,Morning,Minor,Slip/Fall,Logistics,Foot
+2023-09-17,Night,Moderate,Burn,Maintenance,Eye
+2022-02-10,Evening,Minor,Slip/Fall,Production,Eye
+2022-08-26,Evening,Moderate,Machinery,Logistics,Leg
+2022-08-17,Morning,Minor,Machinery,Logistics,Eye
+2024-02-07,Evening,Moderate,Cut/Laceration,Production,Foot
+2022-01-08,Night,Moderate,Struck by Object,Quality Control,Back
+2022-04-22,Morning,Minor,Machinery,Maintenance,Arm
+2022-10-02,Morning,Moderate,Slip/Fall,Packaging,Back
+2024-01-15,Night,Minor,Burn,Quality Control,Head
+2022-03-14,Night,Minor,Cut/Laceration,Packaging,Leg
+2022-09-12,Morning,Minor,Machinery,Logistics,Leg
+2022-07-14,Morning,Minor,Struck by Object,Quality Control,Back
+2023-10-30,Night,Moderate,Slip/Fall,Maintenance,Arm
+2022-02-22,Morning,Minor,Slip/Fall,Quality Control,Arm
+2024-01-06,Morning,Minor,Machinery,Production,Back
+2023-10-22,Evening,Minor,Cut/Laceration,Packaging,Back
+2023-01-12,Morning,Minor,Cut/Laceration,Quality Control,Hand
+2024-06-28,Evening,Minor,Slip/Fall,Production,Leg
+2024-07-12,Evening,Severe,Machinery,Production,Foot
+2023-08-26,Evening,Moderate,Slip/Fall,Production,Head
+2024-05-16,Morning,Moderate,Struck by Object,Packaging,Head
+2023-09-03,Evening,Moderate,Machinery,Packaging,Leg
+2023-10-27,Evening,Moderate,Struck by Object,Maintenance,Foot
+2023-06-21,Morning,Moderate,Struck by Object,Production,Foot
+2023-05-09,Evening,Minor,Cut/Laceration,Packaging,Eye
+2022-02-19,Night,Severe,Slip/Fall,Maintenance,Head
+2023-03-03,Night,Minor,Machinery,Quality Control,Arm
+2023-04-04,Night,Minor,Slip/Fall,Maintenance,Arm
+2024-12-05,Evening,Minor,Machinery,Maintenance,Eye
+2022-09-17,Night,Moderate,Machinery,Production,Arm
+2022-08-31,Morning,Minor,Burn,Packaging,Foot
+2023-12-15,Night,Moderate,Machinery,Production,Leg
+2023-07-03,Morning,Severe,Slip/Fall,Packaging,Eye
+2023-09-19,Night,Minor,Machinery,Packaging,Head
+2022-08-03,Night,Moderate,Slip/Fall,Quality Control,Leg
+2022-06-21,Evening,Minor,Struck by Object,Quality Control,Eye
+2023-12-24,Evening,Minor,Struck by Object,Packaging,Foot
+2023-08-24,Morning,Minor,Cut/Laceration,Quality Control,Foot
+2023-06-02,Night,Moderate,Burn,Quality Control,Leg
+2022-04-03,Night,Moderate,Struck by Object,Logistics,Leg
+2022-01-04,Evening,Minor,Slip/Fall,Logistics,Back
+2023-11-13,Night,Minor,Cut/Laceration,Maintenance,Hand
+2022-04-10,Morning,Minor,Cut/Laceration,Quality Control,Foot
+2024-03-16,Morning,Minor,Slip/Fall,Production,Foot
+2024-06-13,Evening,Minor,Slip/Fall,Quality Control,Back
+2023-10-22,Morning,Minor,Burn,Logistics,Arm
+2024-08-04,Night,Moderate,Machinery,Production,Hand
+2022-03-17,Evening,Minor,Slip/Fall,Production,Leg
+2022-12-22,Morning,Minor,Cut/Laceration,Production,Hand
+2023-11-22,Morning,Minor,Slip/Fall,Quality Control,Eye
+2024-06-18,Evening,Severe,Struck by Object,Maintenance,Foot
+2022-04-13,Evening,Moderate,Slip/Fall,Production,Head
+2023-06-13,Morning,Minor,Slip/Fall,Logistics,Foot
+2023-06-06,Morning,Minor,Machinery,Production,Head
+2022-07-26,Night,Minor,Machinery,Packaging,Head
+2022-02-05,Evening,Minor,Cut/Laceration,Production,Eye
+2022-06-03,Evening,Moderate,Burn,Logistics,Leg
+2022-10-01,Evening,Minor,Burn,Quality Control,Head
+2024-07-13,Morning,Minor,Machinery,Quality Control,Back
+2024-12-16,Night,Moderate,Machinery,Packaging,Back
+2022-11-23,Night,Minor,Machinery,Maintenance,Arm
+2022-10-19,Night,Moderate,Struck by Object,Quality Control,Back
+2024-09-12,Evening,Moderate,Struck by Object,Production,Leg
+2024-07-04,Morning,Minor,Slip/Fall,Maintenance,Eye
+2022-04-22,Evening,Severe,Slip/Fall,Maintenance,Head
+2022-09-10,Night,Moderate,Cut/Laceration,Logistics,Foot
+2023-10-03,Evening,Minor,Slip/Fall,Quality Control,Leg
+2022-02-10,Morning,Minor,Burn,Production,Hand
+2022-06-26,Night,Minor,Burn,Packaging,Eye
+2022-05-02,Evening,Severe,Slip/Fall,Packaging,Foot
+2023-04-06,Night,Minor,Machinery,Maintenance,Hand
+2023-01-31,Evening,Moderate,Machinery,Quality Control,Hand
+2024-01-01,Evening,Minor,Burn,Logistics,Head
+2024-07-11,Evening,Moderate,Machinery,Maintenance,Arm
+2023-12-11,Night,Minor,Burn,Logistics,Arm
+2022-10-20,Evening,Moderate,Cut/Laceration,Logistics,Hand
+2023-07-20,Night,Minor,Machinery,Production,Arm
+2022-07-07,Evening,Minor,Burn,Production,Back
+2024-05-01,Night,Minor,Struck by Object,Production,Foot
+2023-08-30,Morning,Severe,Slip/Fall,Production,Leg
+2022-02-08,Night,Minor,Slip/Fall,Production,Leg
+2024-09-16,Morning,Minor,Slip/Fall,Logistics,Foot
+2023-05-10,Night,Severe,Cut/Laceration,Maintenance,Back
+2023-05-30,Evening,Moderate,Struck by Object,Packaging,Eye
+2022-01-15,Morning,Severe,Slip/Fall,Maintenance,Arm
+2022-11-24,Evening,Moderate,Slip/Fall,Maintenance,Leg
+2022-03-08,Morning,Moderate,Burn,Packaging,Arm
+2022-06-13,Evening,Severe,Burn,Production,Foot
+2023-08-07,Morning,Severe,Slip/Fall,Maintenance,Arm
+2023-09-16,Night,Minor,Burn,Quality Control,Hand
+2024-03-26,Night,Moderate,Struck by Object,Quality Control,Back
+2022-08-04,Night,Minor,Machinery,Production,Arm
+2024-07-16,Night,Moderate,Burn,Packaging,Leg
+2022-10-02,Night,Moderate,Slip/Fall,Production,Hand
+2023-06-03,Morning,Minor,Slip/Fall,Packaging,Arm
+2022-03-24,Morning,Minor,Cut/Laceration,Production,Head
+2024-11-13,Morning,Minor,Cut/Laceration,Packaging,Arm
+2022-12-09,Morning,Minor,Machinery,Production,Back
+2024-09-29,Evening,Moderate,Slip/Fall,Logistics,Arm
+2023-01-30,Evening,Minor,Machinery,Quality Control,Eye
+2022-04-22,Evening,Minor,Struck by Object,Packaging,Eye
+2022-03-20,Evening,Minor,Machinery,Maintenance,Eye
+2024-02-11,Morning,Minor,Struck by Object,Production,Arm
+2022-06-14,Morning,Minor,Cut/Laceration,Packaging,Hand
+2022-09-14,Evening,Minor,Cut/Laceration,Logistics,Leg
+2024-01-18,Night,Moderate,Slip/Fall,Packaging,Eye
+2023-10-31,Evening,Minor,Struck by Object,Quality Control,Back
+2024-09-14,Night,Minor,Struck by Object,Production,Head
+2022-09-16,Night,Moderate,Struck by Object,Logistics,Head
+2023-03-05,Night,Moderate,Burn,Production,Leg
+2024-05-11,Night,Minor,Burn,Logistics,Back
+2022-03-30,Evening,Minor,Burn,Logistics,Hand
+2023-07-19,Night,Minor,Machinery,Logistics,Arm
+2023-09-30,Night,Moderate,Machinery,Logistics,Hand
+2022-09-17,Morning,Severe,Cut/Laceration,Quality Control,Hand
+2022-02-22,Morning,Severe,Struck by Object,Production,Hand
+2023-05-07,Evening,Moderate,Machinery,Logistics,Hand
+2023-11-16,Night,Severe,Cut/Laceration,Production,Leg
+2023-04-12,Night,Minor,Machinery,Production,Arm
+2024-03-30,Morning,Minor,Struck by Object,Packaging,Eye
+2024-08-22,Night,Moderate,Cut/Laceration,Quality Control,Back
+2022-02-10,Morning,Minor,Struck by Object,Quality Control,Back
+2024-09-28,Night,Minor,Cut/Laceration,Logistics,Hand
+2024-01-14,Night,Severe,Machinery,Maintenance,Arm
+2024-02-01,Morning,Minor,Burn,Quality Control,Back
+2024-03-21,Night,Moderate,Cut/Laceration,Packaging,Foot
+2023-06-12,Evening,Moderate,Burn,Logistics,Leg
+2023-11-21,Morning,Minor,Machinery,Packaging,Head
+2023-11-03,Evening,Minor,Slip/Fall,Quality Control,Hand
+2023-12-08,Morning,Severe,Slip/Fall,Production,Leg
+2024-04-11,Evening,Minor,Struck by Object,Logistics,Arm
+2022-01-16,Night,Severe,Cut/Laceration,Maintenance,Foot
+2024-06-16,Morning,Minor,Struck by Object,Maintenance,Eye
+2024-08-23,Evening,Severe,Cut/Laceration,Packaging,Arm
+2024-01-16,Night,Minor,Machinery,Production,Eye
+2022-06-26,Night,Severe,Struck by Object,Maintenance,Eye
+2023-03-19,Night,Minor,Cut/Laceration,Maintenance,Head
+2023-07-16,Morning,Moderate,Struck by Object,Maintenance,Leg
+2022-06-09,Evening,Severe,Slip/Fall,Production,Back
+2024-09-01,Morning,Minor,Slip/Fall,Logistics,Head
+2024-08-27,Morning,Severe,Cut/Laceration,Production,Arm
+2024-12-26,Evening,Severe,Machinery,Quality Control,Arm
+2023-01-31,Night,Moderate,Slip/Fall,Production,Back
+2023-02-01,Evening,Severe,Cut/Laceration,Quality Control,Foot
+2023-12-04,Morning,Moderate,Struck by Object,Production,Arm
+2022-06-30,Night,Moderate,Slip/Fall,Logistics,Back
+2022-10-07,Morning,Minor,Burn,Maintenance,Back
+2023-06-09,Morning,Minor,Machinery,Logistics,Eye
+2024-10-31,Night,Minor,Machinery,Quality Control,Eye
+2024-06-25,Night,Minor,Struck by Object,Production,Foot
+2024-09-22,Night,Minor,Slip/Fall,Maintenance,Arm
+2024-10-28,Morning,Severe,Cut/Laceration,Production,Head
+2024-01-20,Night,Minor,Machinery,Maintenance,Foot
+2022-09-01,Evening,Minor,Cut/Laceration,Logistics,Head
+2023-08-21,Morning,Minor,Machinery,Packaging,Leg
+2024-09-06,Morning,Moderate,Cut/Laceration,Production,Arm
+2023-03-07,Evening,Minor,Machinery,Maintenance,Eye
+2024-08-15,Night,Minor,Burn,Packaging,Back
+2023-02-23,Night,Minor,Burn,Packaging,Hand
+2024-01-20,Evening,Minor,Slip/Fall,Logistics,Eye
+2023-12-10,Morning,Minor,Struck by Object,Production,Back
+2024-05-30,Morning,Moderate,Cut/Laceration,Logistics,Eye
+2022-10-11,Evening,Minor,Slip/Fall,Logistics,Arm
+2022-01-05,Morning,Minor,Burn,Quality Control,Arm
+2024-10-27,Evening,Minor,Cut/Laceration,Maintenance,Eye
+2024-11-02,Morning,Minor,Struck by Object,Packaging,Arm
+2024-10-10,Evening,Minor,Slip/Fall,Production,Eye
+2022-01-12,Night,Moderate,Machinery,Quality Control,Hand
+2023-07-13,Evening,Minor,Burn,Maintenance,Foot
+2023-09-05,Evening,Minor,Burn,Quality Control,Head
+2023-12-15,Night,Minor,Burn,Packaging,Hand
+2022-04-04,Evening,Minor,Slip/Fall,Maintenance,Foot
+2022-09-04,Evening,Minor,Slip/Fall,Quality Control,Foot
+2024-03-21,Evening,Minor,Burn,Packaging,Back
+2024-07-28,Evening,Minor,Machinery,Packaging,Arm
+2024-12-21,Morning,Severe,Struck by Object,Maintenance,Eye
+2022-12-07,Evening,Moderate,Struck by Object,Packaging,Back
+2023-11-17,Evening,Moderate,Burn,Packaging,Arm
+2022-11-02,Night,Minor,Slip/Fall,Maintenance,Hand
+2024-08-07,Evening,Minor,Cut/Laceration,Logistics,Hand
+2023-09-08,Morning,Minor,Struck by Object,Production,Hand
+2022-09-02,Night,Minor,Machinery,Packaging,Foot
+2024-07-26,Night,Minor,Struck by Object,Maintenance,Leg
+2023-12-06,Night,Minor,Slip/Fall,Logistics,Eye
+2024-02-01,Night,Minor,Cut/Laceration,Logistics,Leg
+2022-05-15,Morning,Minor,Burn,Maintenance,Back
+2023-03-25,Night,Moderate,Struck by Object,Quality Control,Arm
+2024-02-21,Night,Minor,Slip/Fall,Packaging,Head
+2022-11-06,Morning,Minor,Cut/Laceration,Maintenance,Back
+2024-05-07,Morning,Minor,Machinery,Maintenance,Back
+2023-02-09,Morning,Minor,Burn,Packaging,Hand
+2022-11-29,Morning,Minor,Struck by Object,Production,Hand
+2024-09-18,Night,Moderate,Machinery,Production,Head
+2024-01-27,Morning,Minor,Struck by Object,Quality Control,Head
+2022-06-04,Night,Moderate,Machinery,Quality Control,Head
+2022-04-15,Evening,Minor,Struck by Object,Logistics,Eye
+2023-08-07,Morning,Severe,Machinery,Production,Back
+2022-06-03,Morning,Moderate,Struck by Object,Packaging,Arm
+2024-05-06,Morning,Minor,Burn,Maintenance,Leg
+2024-12-16,Morning,Severe,Slip/Fall,Quality Control,Hand
+2023-11-20,Morning,Severe,Burn,Packaging,Head
+2024-11-11,Morning,Severe,Machinery,Maintenance,Leg
+2024-04-03,Morning,Minor,Struck by Object,Logistics,Back
+2024-09-16,Morning,Minor,Machinery,Quality Control,Eye
+2024-09-26,Night,Minor,Cut/Laceration,Production,Arm
+2023-05-15,Night,Minor,Machinery,Packaging,Arm
+2022-11-17,Evening,Moderate,Slip/Fall,Logistics,Foot
+2022-06-12,Morning,Minor,Slip/Fall,Maintenance,Foot
+2024-11-04,Morning,Minor,Struck by Object,Production,Head
+2024-08-21,Evening,Minor,Cut/Laceration,Maintenance,Leg
+2023-12-13,Morning,Minor,Slip/Fall,Maintenance,Back
+2023-11-27,Morning,Minor,Burn,Packaging,Eye
+2024-12-02,Evening,Minor,Machinery,Logistics,Back
+2022-05-11,Night,Minor,Cut/Laceration,Production,Hand
+2023-01-11,Morning,Minor,Cut/Laceration,Packaging,Eye
+2024-10-07,Morning,Minor,Cut/Laceration,Packaging,Leg
+2024-05-30,Night,Minor,Machinery,Maintenance,Arm
+2022-05-24,Night,Moderate,Burn,Maintenance,Leg
+2023-01-23,Night,Moderate,Burn,Packaging,Hand
+2023-01-07,Night,Minor,Burn,Packaging,Foot
+2023-04-26,Morning,Minor,Cut/Laceration,Maintenance,Hand
+2023-02-22,Night,Minor,Burn,Maintenance,Eye
+2024-03-21,Morning,Minor,Struck by Object,Maintenance,Leg
+2022-07-02,Morning,Minor,Machinery,Production,Head
+2022-05-10,Night,Moderate,Cut/Laceration,Logistics,Back
+2022-04-12,Morning,Minor,Burn,Quality Control,Arm
+2024-02-25,Night,Minor,Slip/Fall,Quality Control,Hand
+2022-01-02,Night,Severe,Burn,Production,Back
+2023-03-01,Evening,Minor,Burn,Production,Head
+2024-08-31,Evening,Moderate,Burn,Logistics,Head
+2023-06-27,Morning,Minor,Burn,Production,Arm
+2024-12-06,Morning,Moderate,Burn,Logistics,Foot
+2023-07-14,Evening,Moderate,Slip/Fall,Production,Foot
+2022-10-02,Night,Moderate,Struck by Object,Production,Foot
+2023-01-03,Night,Moderate,Cut/Laceration,Production,Arm
+2024-10-11,Morning,Moderate,Machinery,Quality Control,Head
+2023-01-07,Morning,Minor,Machinery,Logistics,Eye
+2022-02-13,Night,Moderate,Machinery,Maintenance,Eye
+2024-08-18,Evening,Minor,Cut/Laceration,Maintenance,Hand
+2024-03-03,Night,Minor,Burn,Quality Control,Hand
+2024-05-27,Evening,Minor,Burn,Quality Control,Hand
+2024-02-04,Night,Minor,Burn,Production,Eye
+2023-12-13,Morning,Minor,Slip/Fall,Maintenance,Foot
+2022-01-16,Night,Severe,Machinery,Quality Control,Foot
+2024-07-03,Evening,Minor,Cut/Laceration,Production,Head
+2024-05-22,Morning,Minor,Burn,Maintenance,Back
+2022-06-20,Morning,Minor,Slip/Fall,Production,Foot
+2023-12-23,Evening,Minor,Burn,Maintenance,Back
+2024-10-08,Night,Moderate,Cut/Laceration,Quality Control,Arm
+2022-12-23,Night,Minor,Slip/Fall,Packaging,Arm
+2022-02-26,Night,Severe,Slip/Fall,Maintenance,Eye
+2024-08-11,Morning,Minor,Cut/Laceration,Logistics,Back
+2024-05-10,Night,Minor,Cut/Laceration,Quality Control,Head
+2023-03-15,Evening,Minor,Burn,Maintenance,Arm
+2024-09-13,Morning,Minor,Struck by Object,Packaging,Head
+2024-08-02,Evening,Minor,Struck by Object,Maintenance,Eye
+2023-05-06,Morning,Moderate,Slip/Fall,Production,Hand
+2023-10-03,Evening,Minor,Burn,Maintenance,Back
+2024-11-05,Night,Minor,Struck by Object,Maintenance,Back
+2024-05-19,Night,Minor,Burn,Packaging,Head
+2023-07-02,Night,Moderate,Burn,Quality Control,Hand
+2023-01-19,Evening,Minor,Burn,Production,Arm
+2024-06-21,Night,Minor,Slip/Fall,Packaging,Hand
+2024-02-12,Morning,Minor,Cut/Laceration,Packaging,Eye
+2022-09-16,Evening,Moderate,Slip/Fall,Maintenance,Eye
+2023-08-04,Morning,Minor,Cut/Laceration,Packaging,Foot
+2024-03-11,Night,Minor,Machinery,Logistics,Eye
+2022-05-06,Morning,Minor,Cut/Laceration,Maintenance,Hand
+2023-10-13,Morning,Minor,Burn,Production,Leg
+2024-12-14,Night,Minor,Machinery,Production,Leg
+2024-06-19,Evening,Moderate,Cut/Laceration,Quality Control,Back
+2023-05-02,Evening,Minor,Struck by Object,Quality Control,Leg
+2022-03-26,Morning,Severe,Machinery,Production,Leg
+2024-03-21,Morning,Minor,Burn,Packaging,Eye
+2022-11-30,Morning,Minor,Machinery,Logistics,Head
+2022-09-21,Evening,Moderate,Machinery,Production,Head
+2023-06-01,Morning,Minor,Struck by Object,Production,Hand
+2022-07-27,Morning,Minor,Slip/Fall,Logistics,Head
+2022-03-18,Evening,Minor,Burn,Logistics,Leg
+2024-08-02,Evening,Minor,Burn,Maintenance,Leg
+2023-11-23,Morning,Moderate,Machinery,Logistics,Leg
+2023-02-28,Night,Minor,Machinery,Logistics,Foot
+2024-01-04,Morning,Severe,Machinery,Logistics,Eye
+2023-04-21,Morning,Minor,Machinery,Maintenance,Foot
+2024-04-28,Morning,Minor,Slip/Fall,Production,Leg
+2022-05-24,Night,Minor,Burn,Logistics,Back
+2022-08-13,Night,Minor,Machinery,Packaging,Back
+2022-01-09,Evening,Minor,Struck by Object,Packaging,Head
+2024-01-07,Evening,Minor,Slip/Fall,Production,Hand
+2023-11-15,Morning,Minor,Machinery,Maintenance,Foot
+2024-05-17,Night,Moderate,Cut/Laceration,Maintenance,Back
+2022-05-18,Night,Moderate,Slip/Fall,Production,Back
+2023-04-05,Night,Minor,Burn,Maintenance,Arm
+2023-01-26,Morning,Moderate,Burn,Maintenance,Head
+2022-07-21,Evening,Moderate,Cut/Laceration,Logistics,Hand
+2023-11-30,Evening,Severe,Cut/Laceration,Production,Eye
+2023-09-14,Night,Minor,Struck by Object,Packaging,Head
+2022-11-30,Evening,Moderate,Burn,Logistics,Back
+2023-04-28,Morning,Minor,Slip/Fall,Quality Control,Arm
+2023-03-10,Morning,Minor,Machinery,Packaging,Head
+2023-08-29,Evening,Minor,Cut/Laceration,Logistics,Foot
+2022-09-20,Evening,Minor,Machinery,Maintenance,Foot
+2024-04-04,Night,Moderate,Burn,Packaging,Arm
+2024-06-06,Evening,Minor,Burn,Quality Control,Arm
+2023-10-19,Night,Moderate,Struck by Object,Production,Foot
+2023-12-02,Evening,Minor,Cut/Laceration,Quality Control,Arm
+2023-12-04,Evening,Severe,Machinery,Quality Control,Leg
+2023-09-02,Morning,Moderate,Slip/Fall,Packaging,Arm
+2022-07-26,Night,Severe,Struck by Object,Logistics,Eye
+2024-06-22,Night,Minor,Burn,Logistics,Head
+2022-09-11,Evening,Minor,Burn,Maintenance,Foot
+2023-12-07,Evening,Minor,Struck by Object,Maintenance,Leg
+2022-01-16,Morning,Minor,Struck by Object,Quality Control,Arm
+2022-12-21,Morning,Minor,Slip/Fall,Quality Control,Hand
+2023-02-05,Morning,Moderate,Burn,Packaging,Arm
+2023-02-28,Evening,Minor,Slip/Fall,Quality Control,Foot
+2022-06-14,Evening,Minor,Struck by Object,Maintenance,Arm
+2022-02-16,Evening,Severe,Struck by Object,Packaging,Hand
+2023-06-08,Evening,Severe,Struck by Object,Logistics,Head
+2023-06-20,Morning,Moderate,Burn,Maintenance,Hand
+2024-03-15,Morning,Minor,Slip/Fall,Production,Hand
+2024-08-15,Night,Minor,Struck by Object,Quality Control,Back
+2022-03-03,Morning,Minor,Cut/Laceration,Quality Control,Hand
+2022-03-13,Morning,Minor,Machinery,Production,Arm
+2024-02-06,Evening,Minor,Slip/Fall,Quality Control,Foot
+2023-02-16,Evening,Minor,Struck by Object,Quality Control,Hand
+2024-12-01,Night,Minor,Slip/Fall,Packaging,Eye
+2024-06-11,Morning,Minor,Cut/Laceration,Packaging,Head
+2023-09-03,Night,Minor,Struck by Object,Logistics,Arm
+2022-02-28,Evening,Severe,Cut/Laceration,Maintenance,Eye
+2024-02-03,Morning,Minor,Machinery,Packaging,Leg
+2022-09-15,Evening,Moderate,Struck by Object,Quality Control,Eye
+2023-10-01,Night,Minor,Cut/Laceration,Logistics,Eye
+2023-01-25,Evening,Minor,Cut/Laceration,Logistics,Arm
+2024-02-05,Evening,Minor,Cut/Laceration,Quality Control,Hand
+2023-08-13,Evening,Minor,Burn,Quality Control,Head
+2023-12-05,Night,Minor,Struck by Object,Logistics,Back
+2024-11-07,Morning,Moderate,Burn,Quality Control,Back
+2023-05-18,Evening,Moderate,Cut/Laceration,Logistics,Back
+2023-11-22,Night,Moderate,Machinery,Logistics,Leg
+2023-02-05,Morning,Minor,Machinery,Logistics,Arm
+2024-08-23,Morning,Minor,Burn,Packaging,Hand
+2023-10-06,Night,Severe,Burn,Production,Arm
+2022-10-06,Night,Minor,Burn,Packaging,Foot
+2024-09-17,Morning,Minor,Machinery,Quality Control,Back
+2024-05-09,Night,Minor,Burn,Maintenance,Leg
+2024-03-10,Morning,Minor,Cut/Laceration,Maintenance,Leg
+2024-02-22,Evening,Minor,Machinery,Production,Foot
+2024-02-29,Morning,Minor,Struck by Object,Maintenance,Back
+2022-12-30,Night,Severe,Struck by Object,Production,Leg
+2024-09-17,Night,Moderate,Slip/Fall,Production,Head
+2024-12-14,Night,Minor,Slip/Fall,Production,Head
+2022-04-03,Night,Moderate,Slip/Fall,Quality Control,Hand
+2024-08-25,Evening,Moderate,Machinery,Quality Control,Leg
+2022-11-29,Evening,Moderate,Cut/Laceration,Logistics,Hand
+2022-04-27,Night,Severe,Cut/Laceration,Production,Leg
+2022-04-07,Morning,Minor,Cut/Laceration,Maintenance,Arm
+2022-11-21,Evening,Severe,Struck by Object,Packaging,Hand
+2022-04-06,Evening,Minor,Slip/Fall,Maintenance,Hand
+2022-12-06,Night,Moderate,Struck by Object,Quality Control,Hand
+2022-03-27,Morning,Severe,Cut/Laceration,Packaging,Back
+2023-01-17,Night,Minor,Struck by Object,Maintenance,Back
+2022-09-21,Night,Minor,Slip/Fall,Quality Control,Leg
+2022-09-29,Evening,Minor,Machinery,Logistics,Arm
+2022-12-09,Morning,Minor,Struck by Object,Maintenance,Back
+2022-10-16,Night,Minor,Machinery,Maintenance,Foot
+2023-06-09,Morning,Minor,Struck by Object,Production,Arm
+2023-10-12,Evening,Minor,Burn,Quality Control,Arm
+2023-04-21,Morning,Severe,Burn,Packaging,Back
+2022-05-02,Night,Minor,Slip/Fall,Logistics,Hand
+2022-03-28,Night,Severe,Burn,Production,Arm
+2022-07-14,Night,Moderate,Slip/Fall,Production,Arm
+2022-03-24,Night,Minor,Cut/Laceration,Packaging,Head
+2023-03-02,Night,Minor,Slip/Fall,Logistics,Back
+2024-12-22,Night,Minor,Cut/Laceration,Logistics,Back
+2024-04-01,Evening,Minor,Burn,Logistics,Arm
+2024-01-23,Night,Minor,Cut/Laceration,Quality Control,Foot
+2022-11-21,Evening,Minor,Cut/Laceration,Production,Hand
+2022-08-20,Night,Moderate,Machinery,Logistics,Head
+2024-02-08,Morning,Moderate,Cut/Laceration,Logistics,Leg
+2024-03-27,Morning,Minor,Machinery,Production,Hand
+2023-09-07,Night,Moderate,Machinery,Maintenance,Arm
+2022-03-01,Night,Minor,Machinery,Quality Control,Leg
+2024-01-11,Night,Minor,Struck by Object,Quality Control,Back
+2023-05-26,Evening,Minor,Machinery,Maintenance,Leg
+2023-11-27,Night,Moderate,Struck by Object,Production,Head
+2022-05-17,Morning,Moderate,Cut/Laceration,Production,Leg
+2024-08-30,Evening,Minor,Burn,Logistics,Foot
+2023-12-16,Night,Minor,Burn,Packaging,Back
+2024-04-17,Night,Minor,Burn,Production,Foot
+2024-12-15,Night,Moderate,Burn,Quality Control,Arm
+2023-08-19,Morning,Minor,Machinery,Quality Control,Leg
+2022-01-05,Morning,Minor,Cut/Laceration,Maintenance,Back
+2024-01-03,Night,Moderate,Machinery,Logistics,Eye
+2022-12-13,Morning,Minor,Struck by Object,Production,Eye
+2024-04-22,Night,Minor,Struck by Object,Packaging,Head
+2023-10-23,Night,Moderate,Slip/Fall,Logistics,Foot
+2022-11-15,Morning,Minor,Slip/Fall,Maintenance,Leg
+2023-04-17,Morning,Minor,Machinery,Quality Control,Hand
+2024-06-28,Morning,Minor,Struck by Object,Maintenance,Hand
+2023-12-24,Night,Minor,Slip/Fall,Logistics,Eye
+2023-12-03,Evening,Minor,Struck by Object,Logistics,Head
+2023-08-10,Night,Moderate,Machinery,Logistics,Arm
+2023-03-15,Night,Minor,Struck by Object,Logistics,Arm
+2023-07-16,Morning,Minor,Struck by Object,Maintenance,Leg
+2022-10-02,Night,Moderate,Cut/Laceration,Production,Back
+2022-09-11,Morning,Moderate,Machinery,Packaging,Leg
+2023-04-10,Morning,Moderate,Slip/Fall,Quality Control,Hand
+2024-01-16,Morning,Severe,Cut/Laceration,Logistics,Foot
+2024-11-07,Morning,Minor,Struck by Object,Production,Head
+2023-03-10,Night,Moderate,Slip/Fall,Quality Control,Arm
+2022-01-25,Evening,Minor,Machinery,Maintenance,Eye
+2023-12-13,Night,Minor,Cut/Laceration,Quality Control,Eye
+2024-06-04,Evening,Moderate,Burn,Quality Control,Arm
+2022-10-28,Night,Minor,Burn,Packaging,Eye
+2023-06-05,Morning,Minor,Struck by Object,Logistics,Head
+2022-08-05,Night,Minor,Machinery,Packaging,Hand
+2023-02-12,Night,Minor,Machinery,Packaging,Hand
+2023-12-26,Evening,Minor,Burn,Logistics,Arm
+2024-10-21,Evening,Minor,Slip/Fall,Logistics,Back
+2024-09-02,Morning,Minor,Struck by Object,Packaging,Back
+2022-10-16,Night,Minor,Slip/Fall,Quality Control,Head
+2023-07-06,Evening,Minor,Cut/Laceration,Quality Control,Eye
+2022-06-24,Night,Minor,Cut/Laceration,Logistics,Foot
+2022-08-14,Evening,Minor,Machinery,Maintenance,Leg
+2024-11-16,Morning,Minor,Machinery,Production,Foot
+2022-04-21,Evening,Severe,Cut/Laceration,Quality Control,Eye
+2022-04-01,Morning,Minor,Struck by Object,Packaging,Eye
+2023-03-27,Night,Moderate,Struck by Object,Maintenance,Leg
+2022-01-24,Night,Minor,Slip/Fall,Quality Control,Hand
+2022-08-05,Night,Minor,Burn,Packaging,Hand
+2023-08-15,Night,Minor,Struck by Object,Quality Control,Foot
+2022-09-27,Evening,Minor,Machinery,Quality Control,Arm
+2022-11-07,Morning,Moderate,Struck by Object,Logistics,Hand
+2022-07-15,Night,Minor,Machinery,Packaging,Hand
+2024-05-28,Morning,Minor,Slip/Fall,Production,Back
+2023-05-04,Evening,Minor,Slip/Fall,Production,Back
+2023-08-23,Morning,Moderate,Struck by Object,Maintenance,Leg
+2024-07-21,Morning,Minor,Burn,Production,Leg
+2024-08-18,Night,Minor,Slip/Fall,Packaging,Foot
+2024-08-10,Evening,Minor,Slip/Fall,Quality Control,Head
+2022-08-23,Morning,Minor,Burn,Packaging,Head
+2024-12-28,Evening,Moderate,Struck by Object,Logistics,Hand
+2024-01-11,Morning,Minor,Struck by Object,Logistics,Hand
+2024-01-05,Morning,Minor,Burn,Production,Arm
+2022-10-15,Evening,Moderate,Struck by Object,Maintenance,Foot
+2024-09-10,Evening,Moderate,Slip/Fall,Maintenance,Eye
+2024-07-15,Night,Minor,Machinery,Logistics,Arm
+2023-05-29,Evening,Moderate,Machinery,Quality Control,Back
+2024-06-02,Night,Minor,Machinery,Logistics,Back
+2022-01-20,Night,Minor,Burn,Packaging,Foot
+2023-09-07,Evening,Moderate,Struck by Object,Maintenance,Arm
+2023-03-02,Night,Severe,Machinery,Packaging,Leg
+2024-01-16,Morning,Moderate,Cut/Laceration,Maintenance,Arm
+2024-08-16,Night,Moderate,Cut/Laceration,Logistics,Head
+2023-08-03,Night,Moderate,Burn,Maintenance,Eye
+2023-04-04,Night,Minor,Slip/Fall,Logistics,Leg
+2024-07-04,Night,Moderate,Machinery,Logistics,Arm
+2024-11-29,Evening,Minor,Machinery,Packaging,Eye
+2022-07-15,Night,Minor,Slip/Fall,Quality Control,Back
+2024-08-26,Night,Minor,Slip/Fall,Maintenance,Leg
+2023-01-27,Evening,Moderate,Machinery,Maintenance,Arm
+2022-12-22,Night,Severe,Cut/Laceration,Packaging,Back
+2023-02-04,Morning,Minor,Slip/Fall,Production,Foot
+2022-01-13,Morning,Minor,Machinery,Maintenance,Head
+2024-10-28,Night,Moderate,Machinery,Quality Control,Head
+2024-12-10,Evening,Minor,Machinery,Production,Leg
+2023-04-09,Night,Minor,Machinery,Quality Control,Hand
+2023-03-26,Evening,Severe,Struck by Object,Packaging,Leg
+2023-12-05,Evening,Minor,Machinery,Production,Eye
+2023-06-04,Night,Minor,Struck by Object,Packaging,Back
+2023-05-02,Evening,Moderate,Machinery,Production,Leg
+2023-07-07,Morning,Severe,Burn,Logistics,Head
+2023-01-03,Night,Minor,Burn,Logistics,Hand
+2024-04-30,Evening,Moderate,Slip/Fall,Packaging,Back
+2024-11-13,Morning,Severe,Struck by Object,Logistics,Arm
+2022-04-24,Night,Minor,Machinery,Logistics,Foot
+2023-10-01,Morning,Minor,Slip/Fall,Packaging,Leg
+2023-11-29,Evening,Minor,Machinery,Packaging,Foot
+2023-08-11,Evening,Moderate,Cut/Laceration,Logistics,Hand
+2024-02-17,Night,Moderate,Slip/Fall,Maintenance,Hand
+2023-07-12,Evening,Moderate,Burn,Maintenance,Eye
+2024-12-07,Evening,Minor,Machinery,Maintenance,Eye
+2023-06-07,Evening,Moderate,Cut/Laceration,Packaging,Eye
+2023-02-06,Morning,Minor,Burn,Maintenance,Head
+2024-07-16,Morning,Moderate,Struck by Object,Logistics,Eye
+2023-07-25,Night,Minor,Cut/Laceration,Maintenance,Hand
+2022-10-19,Night,Minor,Slip/Fall,Packaging,Foot
+2024-02-11,Night,Minor,Burn,Quality Control,Head
+2022-07-01,Evening,Minor,Machinery,Production,Foot
+2022-04-21,Evening,Moderate,Machinery,Production,Eye
+2022-09-21,Evening,Minor,Struck by Object,Quality Control,Back
+2023-11-13,Morning,Severe,Struck by Object,Production,Back
+2024-06-07,Morning,Minor,Struck by Object,Maintenance,Back
+2022-03-25,Morning,Minor,Struck by Object,Logistics,Eye
+2024-10-27,Night,Moderate,Burn,Production,Head
+2024-05-31,Night,Minor,Burn,Logistics,Eye
+2022-04-17,Morning,Moderate,Burn,Packaging,Foot
+2023-08-04,Night,Minor,Cut/Laceration,Packaging,Foot
+2024-01-01,Morning,Minor,Cut/Laceration,Packaging,Back
+2022-08-18,Morning,Minor,Burn,Packaging,Hand
+2022-03-20,Evening,Moderate,Cut/Laceration,Production,Head
+2024-11-27,Morning,Moderate,Burn,Production,Hand
+2022-06-14,Morning,Minor,Cut/Laceration,Quality Control,Back
+2022-10-09,Night,Minor,Machinery,Quality Control,Hand
+2023-03-03,Night,Minor,Burn,Maintenance,Back
+2024-08-06,Night,Moderate,Slip/Fall,Packaging,Back
+2022-11-02,Morning,Minor,Machinery,Maintenance,Hand
+2024-09-04,Evening,Minor,Cut/Laceration,Packaging,Hand
+2024-05-16,Night,Severe,Burn,Packaging,Eye
+2023-04-17,Morning,Minor,Cut/Laceration,Maintenance,Back
+2024-09-04,Night,Minor,Cut/Laceration,Logistics,Hand
+2023-06-17,Night,Minor,Burn,Production,Hand
+2023-11-17,Night,Minor,Burn,Logistics,Foot
+2023-01-26,Evening,Minor,Struck by Object,Production,Head
+2024-11-19,Night,Minor,Cut/Laceration,Quality Control,Back
+2024-12-28,Night,Minor,Struck by Object,Logistics,Back
+2024-03-15,Morning,Severe,Struck by Object,Maintenance,Foot
+2024-11-23,Morning,Minor,Slip/Fall,Maintenance,Back
+2023-11-25,Morning,Minor,Cut/Laceration,Packaging,Arm
+2024-04-10,Morning,Minor,Cut/Laceration,Packaging,Foot
+2022-05-15,Evening,Moderate,Cut/Laceration,Logistics,Hand
+2022-08-18,Evening,Moderate,Machinery,Logistics,Arm
+2023-12-21,Evening,Moderate,Machinery,Packaging,Arm
+2022-07-27,Night,Minor,Machinery,Maintenance,Head
+2022-12-11,Night,Minor,Cut/Laceration,Production,Foot
+2022-06-02,Evening,Minor,Burn,Logistics,Eye
+2024-06-07,Night,Minor,Cut/Laceration,Production,Back
+2024-07-28,Morning,Moderate,Cut/Laceration,Maintenance,Back
+2022-08-08,Morning,Minor,Cut/Laceration,Logistics,Hand
+2022-05-09,Night,Severe,Struck by Object,Production,Head
+2022-06-10,Evening,Moderate,Burn,Logistics,Hand
+2023-08-08,Morning,Moderate,Cut/Laceration,Logistics,Eye
+2024-02-24,Evening,Moderate,Cut/Laceration,Maintenance,Back
+2024-10-10,Evening,Minor,Machinery,Quality Control,Eye
+2024-02-17,Morning,Moderate,Struck by Object,Logistics,Head
+2024-05-20,Evening,Minor,Burn,Maintenance,Back
+2023-01-17,Night,Moderate,Struck by Object,Packaging,Eye
+2022-05-21,Night,Minor,Machinery,Logistics,Hand
+2023-09-21,Morning,Moderate,Cut/Laceration,Quality Control,Hand
+2023-09-23,Night,Moderate,Machinery,Quality Control,Leg
+2024-07-04,Evening,Minor,Struck by Object,Quality Control,Arm
+2022-02-25,Night,Minor,Slip/Fall,Production,Hand
+2023-01-25,Night,Minor,Burn,Production,Head
+2024-10-13,Morning,Moderate,Struck by Object,Quality Control,Arm
+2023-01-17,Night,Minor,Burn,Production,Hand
+2023-12-28,Morning,Minor,Struck by Object,Quality Control,Foot
+2024-08-17,Evening,Minor,Slip/Fall,Maintenance,Leg
+2024-07-25,Evening,Moderate,Burn,Maintenance,Foot
+2024-01-03,Night,Minor,Slip/Fall,Production,Eye
+2022-06-02,Morning,Minor,Burn,Quality Control,Head
+2024-08-23,Night,Minor,Burn,Logistics,Back
+2023-02-02,Night,Minor,Machinery,Packaging,Hand
+2022-12-18,Night,Moderate,Slip/Fall,Packaging,Eye
+2022-07-30,Night,Minor,Burn,Logistics,Foot
+2024-02-25,Night,Moderate,Burn,Maintenance,Foot
+2024-02-05,Night,Minor,Cut/Laceration,Logistics,Arm
+2023-09-18,Night,Minor,Burn,Production,Eye
+2022-10-31,Evening,Minor,Cut/Laceration,Logistics,Leg
+2023-05-02,Morning,Moderate,Struck by Object,Production,Hand
+2024-07-20,Night,Minor,Machinery,Production,Foot
+2022-03-03,Morning,Moderate,Slip/Fall,Quality Control,Arm
+2024-11-01,Night,Minor,Machinery,Maintenance,Leg
+2024-09-01,Morning,Minor,Burn,Maintenance,Back
+2022-10-10,Morning,Minor,Cut/Laceration,Quality Control,Leg
+2024-03-10,Evening,Minor,Burn,Logistics,Leg
+2022-02-07,Night,Minor,Slip/Fall,Maintenance,Eye
+2024-11-12,Morning,Minor,Struck by Object,Production,Hand
+2023-10-04,Evening,Minor,Cut/Laceration,Packaging,Head
+2023-03-13,Evening,Moderate,Cut/Laceration,Production,Hand
+2022-04-18,Morning,Severe,Cut/Laceration,Packaging,Arm
+2023-04-22,Morning,Minor,Cut/Laceration,Quality Control,Foot
+2022-08-20,Evening,Minor,Struck by Object,Production,Back
+2024-09-10,Evening,Minor,Cut/Laceration,Production,Hand
+2022-11-28,Evening,Minor,Cut/Laceration,Logistics,Arm
+2024-09-13,Evening,Minor,Machinery,Packaging,Eye
+2023-12-10,Night,Minor,Burn,Logistics,Foot
+2022-02-16,Evening,Minor,Burn,Production,Arm
+2023-06-16,Morning,Minor,Cut/Laceration,Logistics,Hand
+2024-03-15,Evening,Minor,Struck by Object,Packaging,Arm
+2022-10-01,Morning,Minor,Slip/Fall,Quality Control,Arm
+2022-04-07,Night,Moderate,Cut/Laceration,Maintenance,Back
+2023-08-19,Morning,Severe,Struck by Object,Maintenance,Arm
+2022-07-01,Morning,Minor,Slip/Fall,Packaging,Eye
+2023-08-23,Night,Minor,Cut/Laceration,Maintenance,Back
+2022-12-05,Evening,Minor,Burn,Production,Back
+2024-05-05,Evening,Moderate,Burn,Production,Leg
+2024-01-04,Evening,Minor,Burn,Packaging,Hand
+2024-12-27,Morning,Minor,Slip/Fall,Production,Foot
+2024-04-23,Evening,Minor,Slip/Fall,Quality Control,Eye
+2024-06-24,Night,Minor,Burn,Logistics,Back
+2023-06-02,Evening,Minor,Struck by Object,Maintenance,Eye
+2022-10-22,Night,Moderate,Burn,Packaging,Hand
+2024-12-30,Morning,Moderate,Slip/Fall,Quality Control,Eye
+2022-11-29,Morning,Minor,Slip/Fall,Quality Control,Leg
+2024-02-02,Night,Minor,Machinery,Production,Foot
+2024-07-05,Evening,Moderate,Machinery,Packaging,Leg
+2024-09-02,Morning,Moderate,Struck by Object,Maintenance,Leg
+2022-08-07,Night,Minor,Struck by Object,Maintenance,Head
+2023-01-26,Morning,Moderate,Cut/Laceration,Maintenance,Hand
+2023-04-10,Morning,Minor,Machinery,Quality Control,Eye
+2023-07-05,Night,Minor,Burn,Production,Foot
+2023-01-18,Night,Minor,Cut/Laceration,Maintenance,Foot
+2024-08-14,Night,Moderate,Machinery,Maintenance,Head
+2023-12-11,Evening,Minor,Machinery,Production,Eye
+2022-06-26,Evening,Minor,Burn,Packaging,Arm
+2023-07-12,Morning,Minor,Machinery,Quality Control,Foot
+2023-09-29,Night,Minor,Struck by Object,Packaging,Hand
+2024-02-09,Morning,Moderate,Machinery,Quality Control,Leg
+2024-02-17,Morning,Minor,Slip/Fall,Maintenance,Eye
+2023-06-29,Night,Moderate,Cut/Laceration,Logistics,Head
+2023-07-20,Morning,Severe,Cut/Laceration,Maintenance,Eye
+2022-01-24,Evening,Minor,Slip/Fall,Quality Control,Head
+2022-05-15,Night,Minor,Cut/Laceration,Maintenance,Eye
+2023-11-08,Evening,Minor,Struck by Object,Maintenance,Arm
+2022-02-08,Morning,Minor,Burn,Packaging,Arm
+2024-06-03,Evening,Minor,Slip/Fall,Quality Control,Head
+2023-06-21,Evening,Moderate,Machinery,Maintenance,Eye
+2023-10-09,Evening,Moderate,Burn,Packaging,Hand
+2022-06-15,Night,Minor,Slip/Fall,Maintenance,Foot
+2022-05-24,Morning,Minor,Slip/Fall,Production,Eye
+2022-12-13,Morning,Moderate,Machinery,Packaging,Head
+2022-01-31,Night,Minor,Slip/Fall,Production,Leg
+2023-09-05,Morning,Minor,Struck by Object,Maintenance,Hand
+2024-02-28,Morning,Minor,Burn,Maintenance,Arm
+2022-01-10,Evening,Moderate,Machinery,Maintenance,Hand
+2023-08-31,Morning,Minor,Burn,Production,Foot
+2022-06-28,Night,Moderate,Cut/Laceration,Maintenance,Back
+2024-08-25,Evening,Minor,Cut/Laceration,Maintenance,Arm
+2023-11-16,Evening,Minor,Cut/Laceration,Packaging,Eye
+2022-11-06,Evening,Severe,Machinery,Production,Leg
+2023-06-23,Evening,Minor,Cut/Laceration,Maintenance,Foot
+2022-06-29,Evening,Severe,Cut/Laceration,Logistics,Eye
+2024-11-19,Night,Severe,Slip/Fall,Packaging,Head
+2023-02-11,Morning,Minor,Slip/Fall,Production,Arm
+2024-02-13,Morning,Severe,Slip/Fall,Maintenance,Arm
+2024-07-10,Evening,Minor,Cut/Laceration,Maintenance,Leg
+2022-11-14,Evening,Severe,Cut/Laceration,Packaging,Eye
+2022-02-18,Evening,Minor,Burn,Maintenance,Head
+2024-02-03,Morning,Minor,Cut/Laceration,Packaging,Leg
+2024-11-06,Morning,Minor,Machinery,Production,Arm
+2022-06-25,Morning,Minor,Machinery,Logistics,Foot
+2022-06-13,Night,Minor,Burn,Quality Control,Leg
+2024-02-03,Morning,Moderate,Struck by Object,Packaging,Arm
+2022-10-29,Morning,Minor,Burn,Packaging,Head
+2023-12-06,Evening,Minor,Cut/Laceration,Maintenance,Eye
+2023-08-10,Evening,Minor,Machinery,Maintenance,Hand
+2022-12-09,Evening,Minor,Machinery,Maintenance,Hand
+2024-10-30,Night,Moderate,Struck by Object,Quality Control,Back
+2024-11-17,Morning,Severe,Machinery,Packaging,Hand
+2023-01-19,Evening,Moderate,Burn,Production,Arm
+2022-02-12,Evening,Severe,Slip/Fall,Logistics,Head
+2022-04-01,Night,Minor,Cut/Laceration,Quality Control,Hand
+2023-11-19,Night,Minor,Struck by Object,Logistics,Foot
+2024-10-31,Morning,Minor,Machinery,Maintenance,Arm
+2023-03-30,Night,Moderate,Struck by Object,Logistics,Arm
+2022-02-14,Night,Minor,Machinery,Logistics,Arm
+2023-11-29,Morning,Minor,Slip/Fall,Quality Control,Back
+2023-09-06,Morning,Minor,Struck by Object,Logistics,Hand
+2022-11-18,Evening,Minor,Cut/Laceration,Packaging,Arm
+2023-10-03,Evening,Severe,Slip/Fall,Maintenance,Leg
+2023-12-05,Night,Minor,Burn,Packaging,Eye
+2024-12-23,Night,Minor,Slip/Fall,Maintenance,Eye
+2022-02-21,Night,Minor,Struck by Object,Maintenance,Leg
+2024-08-24,Morning,Minor,Burn,Quality Control,Arm
+2022-06-14,Morning,Minor,Cut/Laceration,Logistics,Eye
+2023-01-31,Morning,Moderate,Machinery,Production,Leg
+2022-06-27,Night,Moderate,Cut/Laceration,Production,Eye
+2024-07-06,Night,Minor,Struck by Object,Quality Control,Leg
+2023-01-13,Night,Minor,Burn,Packaging,Head
+2023-10-01,Evening,Minor,Burn,Maintenance,Arm
+2023-06-07,Night,Minor,Cut/Laceration,Production,Eye
+2024-02-10,Night,Moderate,Burn,Quality Control,Leg
+2024-10-07,Night,Severe,Slip/Fall,Production,Eye
+2022-11-01,Evening,Minor,Slip/Fall,Packaging,Arm
+2023-02-01,Evening,Moderate,Burn,Production,Head
+2024-06-28,Morning,Minor,Slip/Fall,Packaging,Eye
+2023-05-21,Evening,Severe,Burn,Logistics,Back
+2024-11-30,Morning,Moderate,Machinery,Quality Control,Hand
+2023-01-31,Morning,Minor,Cut/Laceration,Maintenance,Leg
+2022-12-08,Evening,Severe,Machinery,Logistics,Head
+2024-04-17,Evening,Minor,Struck by Object,Quality Control,Head
+2024-12-28,Morning,Minor,Burn,Production,Eye
+2023-04-20,Morning,Severe,Machinery,Maintenance,Leg
+2024-03-11,Morning,Moderate,Burn,Packaging,Hand
+2024-11-18,Morning,Moderate,Machinery,Production,Leg
+2023-10-17,Morning,Minor,Slip/Fall,Logistics,Head
+2023-03-12,Morning,Moderate,Struck by Object,Logistics,Hand
+2022-05-25,Morning,Minor,Struck by Object,Production,Back
+2024-07-12,Morning,Minor,Struck by Object,Quality Control,Eye
+2024-04-26,Evening,Minor,Slip/Fall,Maintenance,Head
+2022-04-12,Evening,Minor,Machinery,Packaging,Head
+2022-12-27,Night,Severe,Cut/Laceration,Maintenance,Back
+2024-07-19,Morning,Minor,Machinery,Quality Control,Arm
+2024-04-10,Night,Minor,Slip/Fall,Quality Control,Arm
+2024-02-16,Morning,Moderate,Burn,Production,Eye
+2024-03-04,Evening,Minor,Burn,Packaging,Head
+2022-09-23,Evening,Minor,Machinery,Production,Foot
+2024-01-27,Morning,Moderate,Machinery,Quality Control,Eye
+2024-01-18,Morning,Moderate,Cut/Laceration,Production,Arm
+2022-08-21,Evening,Moderate,Machinery,Quality Control,Leg
+2024-05-24,Evening,Minor,Slip/Fall,Packaging,Arm
+2022-06-19,Morning,Minor,Cut/Laceration,Production,Eye
+2022-06-26,Evening,Minor,Struck by Object,Production,Arm
+2022-09-10,Morning,Minor,Machinery,Quality Control,Hand
+2023-01-11,Morning,Minor,Machinery,Production,Foot
+2022-04-06,Evening,Moderate,Machinery,Packaging,Eye
+2023-11-12,Evening,Minor,Slip/Fall,Quality Control,Eye
+2023-09-05,Morning,Minor,Burn,Quality Control,Head
+2022-08-16,Evening,Minor,Machinery,Logistics,Back
+2024-01-08,Night,Minor,Slip/Fall,Quality Control,Arm
+2022-01-25,Night,Minor,Slip/Fall,Packaging,Back
+2023-02-22,Night,Minor,Slip/Fall,Logistics,Hand
+2024-01-14,Morning,Moderate,Struck by Object,Logistics,Arm
+2022-09-01,Night,Moderate,Burn,Logistics,Arm
+2022-02-22,Morning,Moderate,Struck by Object,Quality Control,Hand
+2024-09-03,Morning,Moderate,Burn,Quality Control,Eye
+2022-08-16,Evening,Minor,Struck by Object,Maintenance,Eye
+2024-10-28,Morning,Moderate,Burn,Production,Eye
+2023-03-23,Morning,Minor,Slip/Fall,Maintenance,Head
+2024-07-17,Night,Minor,Cut/Laceration,Production,Arm
+2023-04-08,Morning,Minor,Struck by Object,Logistics,Foot
+2024-01-03,Night,Moderate,Struck by Object,Packaging,Back
+2023-09-23,Night,Minor,Cut/Laceration,Quality Control,Eye
+2023-12-28,Morning,Moderate,Burn,Logistics,Hand
+2024-03-04,Morning,Minor,Burn,Maintenance,Hand
+2022-09-22,Evening,Moderate,Struck by Object,Logistics,Eye
+2022-04-01,Evening,Minor,Slip/Fall,Logistics,Hand
+2023-11-24,Morning,Severe,Struck by Object,Maintenance,Arm
+2022-08-03,Night,Minor,Struck by Object,Packaging,Eye
+2022-12-15,Evening,Moderate,Machinery,Packaging,Leg
+2022-10-24,Morning,Moderate,Cut/Laceration,Logistics,Foot
+2022-03-24,Night,Moderate,Burn,Maintenance,Leg
+2024-10-22,Morning,Moderate,Cut/Laceration,Production,Arm
+2022-08-26,Evening,Moderate,Burn,Quality Control,Leg
+2024-01-22,Evening,Minor,Struck by Object,Quality Control,Head
+2023-01-27,Night,Severe,Machinery,Maintenance,Foot
+2022-09-07,Evening,Minor,Burn,Quality Control,Head
+2022-06-14,Evening,Moderate,Slip/Fall,Maintenance,Back
+2024-03-03,Evening,Minor,Struck by Object,Logistics,Leg
+2022-09-16,Evening,Minor,Machinery,Packaging,Leg
+2024-11-25,Morning,Minor,Slip/Fall,Maintenance,Leg
+2022-11-22,Evening,Severe,Slip/Fall,Logistics,Back
+2024-06-30,Morning,Minor,Cut/Laceration,Quality Control,Arm
+2023-10-31,Night,Moderate,Machinery,Production,Eye
+2023-06-11,Evening,Moderate,Cut/Laceration,Production,Hand
+2024-08-13,Morning,Severe,Cut/Laceration,Quality Control,Leg
+2024-07-21,Morning,Moderate,Cut/Laceration,Maintenance,Arm
+2022-11-17,Evening,Severe,Machinery,Quality Control,Eye
+2022-05-14,Morning,Minor,Cut/Laceration,Maintenance,Leg
+2023-05-13,Night,Moderate,Slip/Fall,Packaging,Hand
+2024-03-17,Evening,Minor,Cut/Laceration,Production,Eye
+2023-12-29,Evening,Minor,Slip/Fall,Maintenance,Head
+2024-02-18,Night,Minor,Slip/Fall,Maintenance,Head
+2024-05-05,Night,Moderate,Burn,Logistics,Head
+2024-12-14,Evening,Minor,Cut/Laceration,Logistics,Head
+2024-04-22,Evening,Moderate,Machinery,Production,Leg
+2022-02-27,Morning,Minor,Cut/Laceration,Production,Back
+2024-04-15,Night,Moderate,Cut/Laceration,Quality Control,Hand
+2023-11-08,Night,Minor,Cut/Laceration,Maintenance,Foot
+2022-09-22,Morning,Severe,Struck by Object,Maintenance,Foot
+2023-05-14,Night,Moderate,Machinery,Quality Control,Back
+2023-05-08,Evening,Minor,Struck by Object,Quality Control,Arm
+2024-09-06,Night,Moderate,Struck by Object,Maintenance,Eye
+2022-06-25,Night,Moderate,Burn,Logistics,Back
+2024-01-10,Evening,Severe,Cut/Laceration,Maintenance,Eye
+2022-03-06,Night,Moderate,Cut/Laceration,Maintenance,Back
+2022-12-18,Morning,Moderate,Struck by Object,Production,Foot
+2024-08-13,Evening,Minor,Burn,Logistics,Hand
+2022-12-10,Evening,Minor,Burn,Production,Leg
+2024-10-01,Morning,Minor,Slip/Fall,Quality Control,Hand
+2024-04-06,Morning,Minor,Cut/Laceration,Maintenance,Leg
+2022-10-14,Morning,Minor,Machinery,Quality Control,Foot
+2024-02-19,Morning,Minor,Machinery,Production,Head
+2024-10-19,Morning,Minor,Cut/Laceration,Production,Back
+2023-06-08,Morning,Minor,Struck by Object,Quality Control,Foot
+2022-07-09,Evening,Minor,Burn,Logistics,Leg
+2023-11-11,Evening,Severe,Slip/Fall,Quality Control,Arm
+2023-09-19,Night,Minor,Burn,Logistics,Back
+2024-04-24,Morning,Moderate,Burn,Quality Control,Eye
+2024-01-19,Night,Minor,Cut/Laceration,Packaging,Hand
+2024-03-02,Night,Moderate,Burn,Production,Eye
+2022-02-13,Evening,Moderate,Slip/Fall,Production,Foot
+2022-02-17,Morning,Minor,Burn,Quality Control,Head
+2024-03-30,Morning,Minor,Slip/Fall,Logistics,Hand
+2024-08-16,Evening,Minor,Machinery,Maintenance,Head
+2024-08-22,Morning,Minor,Slip/Fall,Maintenance,Foot
+2023-01-30,Morning,Minor,Machinery,Packaging,Leg
+2023-09-17,Night,Minor,Burn,Maintenance,Back
+2024-12-09,Night,Minor,Burn,Maintenance,Head
+2022-04-01,Morning,Moderate,Machinery,Logistics,Hand
+2024-11-24,Morning,Moderate,Burn,Production,Arm
+2022-03-14,Night,Minor,Struck by Object,Production,Foot
+2022-03-28,Morning,Moderate,Slip/Fall,Maintenance,Leg
+2024-03-16,Night,Minor,Cut/Laceration,Maintenance,Eye
+2024-04-19,Night,Minor,Cut/Laceration,Packaging,Head
+2023-07-21,Night,Severe,Slip/Fall,Logistics,Arm
+2023-06-25,Night,Minor,Slip/Fall,Production,Arm
+2023-04-18,Evening,Minor,Machinery,Logistics,Foot
+2022-04-29,Evening,Minor,Machinery,Production,Arm
+2023-03-01,Night,Moderate,Burn,Packaging,Leg
+2023-10-21,Morning,Minor,Slip/Fall,Packaging,Eye
+2024-01-05,Evening,Minor,Cut/Laceration,Packaging,Leg
+2023-08-11,Morning,Severe,Burn,Production,Back
+2022-04-13,Morning,Minor,Slip/Fall,Quality Control,Foot
+2024-05-26,Evening,Minor,Slip/Fall,Packaging,Foot
+2023-11-01,Night,Moderate,Struck by Object,Maintenance,Hand
+2023-12-17,Morning,Moderate,Machinery,Production,Eye
+2022-05-07,Night,Moderate,Burn,Logistics,Arm
+2022-04-03,Evening,Minor,Machinery,Packaging,Eye
+2024-08-14,Evening,Minor,Burn,Packaging,Foot
+2023-01-09,Morning,Minor,Struck by Object,Production,Eye
+2024-06-22,Night,Minor,Slip/Fall,Quality Control,Hand
+2024-06-14,Morning,Minor,Machinery,Maintenance,Eye
+2024-09-20,Morning,Severe,Cut/Laceration,Logistics,Head
+2023-06-27,Night,Minor,Cut/Laceration,Maintenance,Eye
+2022-06-24,Morning,Moderate,Struck by Object,Logistics,Eye
+2022-01-08,Evening,Minor,Slip/Fall,Quality Control,Head
+2023-03-12,Night,Minor,Burn,Maintenance,Arm
+2023-06-06,Night,Minor,Machinery,Quality Control,Head
+2023-05-11,Morning,Moderate,Slip/Fall,Production,Head
+2024-04-02,Evening,Minor,Cut/Laceration,Maintenance,Back
+2022-04-15,Morning,Moderate,Cut/Laceration,Quality Control,Foot
+2024-08-07,Night,Minor,Machinery,Maintenance,Arm
+2024-12-12,Night,Minor,Struck by Object,Packaging,Back
+2024-07-29,Morning,Minor,Cut/Laceration,Quality Control,Foot
+2024-04-06,Morning,Moderate,Machinery,Packaging,Back
+2024-03-11,Morning,Moderate,Slip/Fall,Production,Head
+2022-11-08,Evening,Minor,Machinery,Quality Control,Foot
+2023-01-24,Night,Minor,Burn,Quality Control,Leg
+2023-01-16,Evening,Minor,Cut/Laceration,Production,Back
+2022-08-11,Evening,Severe,Slip/Fall,Logistics,Leg
+2023-06-10,Morning,Minor,Struck by Object,Maintenance,Foot
+2022-02-21,Morning,Severe,Machinery,Production,Arm
+2024-04-09,Evening,Minor,Slip/Fall,Logistics,Eye
+2023-11-24,Morning,Minor,Machinery,Maintenance,Leg
